@@ -1,0 +1,1 @@
+# PyQt-Pattern-For-Handling-Tasks-With-Latency
