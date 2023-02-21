@@ -1,6 +1,6 @@
 # PyQt-Pattern-For-Handling-Tasks-With-Latency
 
-```
+```python
  @QtCore.pyqtSlot()
     def clicked_upon(self):
         self.button.setEnabled(False)
